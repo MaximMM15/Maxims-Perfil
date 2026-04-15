@@ -4,14 +4,14 @@
 ## ✳️Hola, mi nombre es Maxim Martinez Marroquin✳️
 | **Gacha Juego**  | Cuánto Me Gusta |
 | -                | -               |
-| **Genshin Impact**    | ${\color{blue}6}$ ${\color{lightblue}/10}$     |
-| **Zenless Zone Zero** | ${\color{blue}8}$ ${\color{lightblue}/10}$     |
-| **Star Rail**         | ${\color{blue}9}$ ${\color{lightblue}/10}$     |
-| **Reverse 1999**      | ${\color{blue}7}$ ${\color{lightblue}/10}$     |
-| **Wuthering Waves**   | ${\color{blue}6}$ ${\color{lightblue}/10}$     |
-| **Arknights Endfield** | ${\color{blue}8}$ ${\color{lightblue}/10}$    |
+| **Genshin Impact**    | 6/10       |
+| **Zenless Zone Zero** | 8/10       |
+| **Star Rail**         | 9/10       |
+| **Reverse 1999**      | 7/10       |
+| **Wuthering Waves**   | 6/10       |
+| **Arknights Endfield** | 8/10      |
 
-## ${\color{blue}Info}$:
+## ***Info:***
 Estoy estudiando diseño digital para medios interactivos (DDMI) en la UACJ y es mi primer semestre.
 
 ## Mis Intereses:
