@@ -1,15 +1,16 @@
 # Mi Perfil
 ![](https://img.freepik.com/premium-photo/anime-scene-forest-with-stream-waterfall-generative-ai_958165-28067.jpg)
-## Hola, mi nombre es Maxim Martinez Marroquin
-| Columna 1 | Columna 2 |
-| -         | -         |
-| Lenguaje  | Habilidad |
-| HTML      | 1/10      |
-| CSS       | 2/10      |
-| Javascript | 3/10     |
-|
+## 💮Hola, mi nombre es Maxim Martinez Marroquin💮
+| **Gacha Juego**  | Cuánto Me Gusta |
+| -                | -               |
+| **Genshin Impact**    | *6/10*     |
+| **Zenless Zone Zero** | *8/10*     |
+| **Star Rail**         | *9/10*     |
+| **Reverse 1999**      | *7/10*     |
+| **Wuthering Waves**   | *6/10*     |
+| **Arknights Endfield** | *8/10*    |
 
-## ***Info***
+# ***Info***
 
 
 
@@ -24,4 +25,4 @@
 2. Spaghetti
 3. Sushi
 4. Pizza
-5. 
+5. Tacos
